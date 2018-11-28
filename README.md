@@ -32,6 +32,8 @@ The goal of this tutorial is to educate people on the maximum operating temperat
 #### Water Cooled:
 *
 
+#### Linus Tech Tips: https://www.youtube.com/watch?v=hr0qLLv3dKc&t=424s
+
 ### Air Pressure for Cooling
 #### Positive Air Pressure:
 * When you have more air going into your case from fans than out, this will cause air to escape from nooks and crannies preventing more dust from getting in. But in this case you need to make sure your incoming air is filtered or you will add even more dust.
@@ -48,4 +50,4 @@ The goal of this tutorial is to educate people on the maximum operating temperat
 #### Linus Techquicke: https://www.youtube.com/watch?v=g8EN3K-eaVA
 #### Linus Tech Tips: https://www.youtube.com/watch?v=dLX54ounENY&t=568s
 
-### How Servers are Cooled
+### How Data Centers are Cooled:
