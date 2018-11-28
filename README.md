@@ -51,3 +51,6 @@ The goal of this tutorial is to educate people on the maximum operating temperat
 #### Linus Tech Tips: https://www.youtube.com/watch?v=dLX54ounENY&t=568s
 
 ### How Data Centers are Cooled:
+
+#### Current Data Center cooling technologies: https://www.youtube.com/watch?v=xBxyhxmhigc
+#### Future Data Center cooling technologies: https://www.youtube.com/watch?v=iiVq29DUuEw
