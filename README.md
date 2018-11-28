@@ -14,9 +14,17 @@ The goal of this tutorial is to educate people on the maximum operating temperat
 #### Linus Techquicke: https://youtu.be/VuP6I0mOb1s
 
 ### Heatsinks:
+* Heatsinks sit on top of electrical components that produce heat, they help dicipate the heat off the component to reduce the temperature and keep the component safe.
+* Types of Heatsinks:
+ * Heat Spreader: flat medal piece that sits on top of components (RAM typically has this)
+ * Passive Pinned/Finned Heatsinks: Creates a larger surface area, therefor making heat dicipation greater. (Motherboards use these. CPUs can use these when paired with a fan, but are low grade)
+![Balanced](https://github.com/Topguny/INFOTC2600FinalProject/blob/master/PinnedHeatSink.PNG)
+ * Heat Pipe/Vapor Chamber: Copper out layer, with pipes filled with something that switches through phases of liquid and gas as it is heated to provide greater dicipation. (CPUS typically use these, because they are better.)
+![Balanced](https://github.com/Topguny/INFOTC2600FinalProject/blob/master/HeatPipe.PNG)
+* Copper is a better heatsink material, than aluminum.
+* Heatsinks use thermalpaste when connected to their component it gurantees there are no gaps between the contact points and increases heat transfer.
 
-
-https://www.youtube.com/watch?annotation_id=annotation_1846171623&feature=iv&src_vid=g8EN3K-eaVA&v=tX2VKEesUiE
+#### Linus Techquicke: https://www.youtube.com/watch?annotation_id=annotation_1846171623&feature=iv&src_vid=g8EN3K-eaVA&v=tX2VKEesUiE
 
 ### Cooling Types:
 #### Air Cooled:
