@@ -8,5 +8,14 @@ The goal of this tutorial is to educate people on the maximum operating temperat
 * Maximum:
 * Optimal:
 #### GPU:
-
+* Maximum:
+* Optimal:
 #### Mmotherboard:
+* Maximum:
+* Optimal:
+
+### Cooling Types:
+#### Air Coole
+#### Water Cooled:
+
+### Air Pressure for Cooling
