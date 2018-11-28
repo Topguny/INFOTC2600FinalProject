@@ -7,7 +7,7 @@ The goal of this tutorial is to educate people on the maximum operating temperat
 * High temperatures can reduce electrical efficiancy by raising the eletrical resistance, faster hardware degredation, if you exceed the maxmimum temperature by overiding safeguards you can even potentially melt the low temperature solder.
 * Also hardware temperatures are measured in Celcsius so keep that in mind. 
 * #### T-Junction Temperature:
-* The maximum temperature hardware can reach before it will essentially turn itself off to preserve itself.
+  * The maximum temperature hardware can reach before it will essentially turn itself off to preserve itself.
 
 https://youtu.be/VuP6I0mOb1s
 
