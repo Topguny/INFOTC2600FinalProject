@@ -15,7 +15,14 @@ The goal of this tutorial is to educate people on the maximum operating temperat
 * Optimal:
 
 ### Cooling Types:
-#### Air Coole
+#### Air Cooled:
+* 
 #### Water Cooled:
+*
 
 ### Air Pressure for Cooling
+#### Positive Air Pressure:
+*
+#### Negative Air Pressure:
+*
+https://www.youtube.com/watch?v=g8EN3K-eaVA
