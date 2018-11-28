@@ -3,16 +3,11 @@
 The goal of this tutorial is to educate people on the maximum operating temperatures of key hardware pieces, optimum temperatures, as well as the different kinds of cooling for standard PC. As well as the types of air pressure used, and then talk about large scale cooling for servers.
 
 ### Temperatures:
-
-#### CPU:
-* Maximum:
-* Optimal:
-#### GPU:
-* Maximum:
-* Optimal:
-#### Mmotherboard:
-* Maximum:
-* Optimal:
+* The thing to keep in mind is a lot of manufactures have varying reccomended maximum temperatures because all of their hardware is different. 
+* High temperatures can reduce electrical efficiancy by raising the eletrical resistance, faster hardware degredation, if you exceed the maxmimum temperature by overiding safeguards you can even potentially melt the low temperature solder.
+* Also hardware temperatures are measured in Celcsius so keep that in mind. 
+#### T-Junction Temperature:
+* The maximum temperature hardware can reach before it will essentially turn itself off to preserve itself.
 
 https://youtu.be/VuP6I0mOb1s
 
