@@ -5,7 +5,8 @@ The goal of this tutorial is to educate people on the maximum operating temperat
 ### Temperatures:
 
 #### CPU:
-
+* Maximum:
+* Optimal:
 #### GPU:
 
 #### Mmotherboard:
