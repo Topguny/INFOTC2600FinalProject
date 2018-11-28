@@ -8,8 +8,10 @@ The goal of this tutorial is to educate people on the maximum operating temperat
 * Also hardware temperatures are measured in Celcsius so keep that in mind. 
 * #### T-Junction Temperature:
   * The maximum temperature hardware can reach before it will essentially turn itself off to preserve itself.
+* The coolest your computer hardware should be is that of the ambient temperature, because if they are cooler they will start to have condensation buildup (hint: water = bad on electrical components).
+* Computers under load or while gaming produce a lot more heat than when they are idle.
 
-https://youtu.be/VuP6I0mOb1s
+#### Linus Techquicke: https://youtu.be/VuP6I0mOb1s
 
 ### Heatsinks:
 
