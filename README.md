@@ -28,9 +28,9 @@ The goal of this tutorial is to educate people on the maximum operating temperat
 
 ### Cooling Types:
 #### Air Cooled:
-* 
+* Uses typically a Heat Pipe/Vapor Chamber as menched above to remove the heat from the component then use fans attached to the pipes to circulate the air to cool the piping down.
 #### Water Cooled:
-*
+* Uses water or other liquids to cool the components down. It does this by pumping water to the contact plate/heatspreader that touches the component then pushes the water back to the top where it can cool. It then uses a radiator and fans to remove the heat from the water and repeat the process.
 
 #### Linus Tech Tips: https://www.youtube.com/watch?v=hr0qLLv3dKc&t=424s
 
