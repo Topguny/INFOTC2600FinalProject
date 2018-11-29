@@ -18,9 +18,9 @@ The goal of this tutorial is to educate people on the maximum operating temperat
 * Types of Heatsinks:
  * Heat Spreader: flat medal piece that sits on top of components (RAM typically has this)
  * Passive Pinned/Finned Heatsinks: Creates a larger surface area, therefor making heat dicipation greater. (Motherboards use these. CPUs can use these when paired with a fan, but are low grade)
-![Balanced](https://github.com/Topguny/INFOTC2600FinalProject/blob/master/PinnedHeatSink.PNG)
+![Pinned](https://github.com/Topguny/INFOTC2600FinalProject/blob/master/PinnedHeatSink.PNG)
  * Heat Pipe/Vapor Chamber: Copper out layer, with pipes filled with something that switches through phases of liquid and gas as it is heated to provide greater dicipation. (CPUS typically use these, because they are better.)
-![Balanced](https://github.com/Topguny/INFOTC2600FinalProject/blob/master/HeatPipe.PNG)
+![Pipe](https://github.com/Topguny/INFOTC2600FinalProject/blob/master/HeatPipe.PNG)
 * Copper is a better heatsink material, than aluminum.
 * Heatsinks use thermalpaste when connected to their component it gurantees there are no gaps between the contact points and increases heat transfer.
 
@@ -31,6 +31,9 @@ The goal of this tutorial is to educate people on the maximum operating temperat
 * Uses typically a Heat Pipe/Vapor Chamber as menched above to remove the heat from the component then use fans attached to the pipes to circulate the air to cool the piping down.
 #### Water Cooled:
 * Uses water or other liquids to cool the components down. It does this by pumping water to the contact plate/heatspreader that touches the component then pushes the water back to the top where it can cool. It then uses a radiator and fans to remove the heat from the water and repeat the process.
+ * There is individually water cooled components which is called a closed loop system. Or an Open loop where multiple components are cooled by the same system of water cooling.
+
+!cooler](https://www.ukgamingcomputers.co.uk/images/articles/closedandopenloop.jpg)
 
 #### Linus Tech Tips: https://www.youtube.com/watch?v=hr0qLLv3dKc&t=424s
 
