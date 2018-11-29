@@ -27,6 +27,7 @@ The goal of this tutorial is to educate people on the maximum operating temperat
 #### Linus Techquicke: https://www.youtube.com/watch?annotation_id=annotation_1846171623&feature=iv&src_vid=g8EN3K-eaVA&v=tX2VKEesUiE
 
 ### Cooling Types:
+* Air Cooling is generally cheaper than water cooling, Air coolers of the same price or slightly under can keep components just as cool as Water coolers. But under heavy load or overclocking, water coolers do tend to keep components colder.
 #### Air Cooled:
 * Uses typically a Heat Pipe/Vapor Chamber as menched above to remove the heat from the component then use fans attached to the pipes to circulate the air to cool the piping down.
 #### Water Cooled:
