@@ -67,6 +67,7 @@ The goal of this tutorial is to educate people on the maximum operating temperat
 * Cold Ambient Air Environments: Build data centers where air naturally cold, near the Arctic Circle like facebook. Then use the naturally cold air to cool the servers rather than use AC units.
 ![Natural](https://github.com/Topguny/INFOTC2600FinalProject/blob/master/FreeAndEvap.PNG)
 * Under Water: Microsoft has explored deploying servers under water and using cold sea floor water to cool the servers, and looks to potentially use tidal currents to provide power.
+![Water](https://ei.marketwatch.com/Multimedia/2018/06/06/Photos/ZH/MW-GK446_micros_20180606182318_ZH.jpg?uuid=36e1ab10-69d8-11e8-a4fb-ac162d7bc1f7)
 
 #### Current Data Center cooling technologies: https://www.youtube.com/watch?v=xBxyhxmhigc
 #### Future Data Center cooling technologies: https://www.youtube.com/watch?v=iiVq29DUuEw
