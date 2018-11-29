@@ -56,5 +56,14 @@ The goal of this tutorial is to educate people on the maximum operating temperat
 
 ### How Data Centers are Cooled:
 
+#### Current Practices:
+* Raised floor ventilation: Cirulate cold air under the servers and to the intake fans, then take the out put air and cool it back down.
+* Hot and cold isles: used to keep servers from getting hot air intake, you assign to server rows to intake from the same side a cold isle, and have two rows output hot air from the same side creating a hot isle.
+![Raised](https://github.com/Topguny/INFOTC2600FinalProject/blob/master/raisedfloor.PNG)
+* Some places use physical barriers to guide the air more, either at the ends of the server isle with doors and even guideing ceiling barriers.
+![barrier](https://github.com/Topguny/INFOTC2600FinalProject/blob/master/barrier.PNG)
+#### Future Possibilities:
+* 
+
 #### Current Data Center cooling technologies: https://www.youtube.com/watch?v=xBxyhxmhigc
 #### Future Data Center cooling technologies: https://www.youtube.com/watch?v=iiVq29DUuEw
