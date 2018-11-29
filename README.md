@@ -57,13 +57,16 @@ The goal of this tutorial is to educate people on the maximum operating temperat
 ### How Data Centers are Cooled:
 
 #### Current Practices:
+* Uses Air Conditioning: Higher Power Draw and worse for the environment
 * Raised floor ventilation: Cirulate cold air under the servers and to the intake fans, then take the out put air and cool it back down.
 * Hot and cold isles: used to keep servers from getting hot air intake, you assign to server rows to intake from the same side a cold isle, and have two rows output hot air from the same side creating a hot isle.
 ![Raised](https://github.com/Topguny/INFOTC2600FinalProject/blob/master/raisedfloor.PNG)
 * Some places use physical barriers to guide the air more, either at the ends of the server isle with doors and even guideing ceiling barriers.
-![barrier](https://github.com/Topguny/INFOTC2600FinalProject/blob/master/barrier.PNG)
+![Barrier](https://github.com/Topguny/INFOTC2600FinalProject/blob/master/barrier.PNG)
 #### Future Possibilities:
-* 
+* Cold Ambient Air Environments: Build data centers where air naturally cold, near the Arctic Circle like facebook. Then use the naturally cold air to cool the servers rather than use AC units.
+![Natural](https://github.com/Topguny/INFOTC2600FinalProject/blob/master/FreeAndEvap.PNG)
+* Under Water: Microsoft has explored deploying servers under water and using cold sea floor water to cool the servers, and looks to potentially use tidal currents to provide power.
 
 #### Current Data Center cooling technologies: https://www.youtube.com/watch?v=xBxyhxmhigc
 #### Future Data Center cooling technologies: https://www.youtube.com/watch?v=iiVq29DUuEw
