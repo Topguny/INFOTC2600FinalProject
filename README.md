@@ -33,7 +33,7 @@ The goal of this tutorial is to educate people on the maximum operating temperat
 * Uses water or other liquids to cool the components down. It does this by pumping water to the contact plate/heatspreader that touches the component then pushes the water back to the top where it can cool. It then uses a radiator and fans to remove the heat from the water and repeat the process.
  * There is individually water cooled components which is called a closed loop system. Or an Open loop where multiple components are cooled by the same system of water cooling.
 
-!cooler](https://www.ukgamingcomputers.co.uk/images/articles/closedandopenloop.jpg)
+![cooler](https://www.ukgamingcomputers.co.uk/images/articles/closedandopenloop.jpg)
 
 #### Linus Tech Tips: https://www.youtube.com/watch?v=hr0qLLv3dKc&t=424s
 
